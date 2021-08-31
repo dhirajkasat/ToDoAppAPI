@@ -16,7 +16,6 @@ This project is built in **ASP.NET  (.NET Framework 4.7.2)**
 ## ⚙ System Requirements
 
 * IDE Framework - **Visual Studio 2019 or higher**
-* Database - **SQL Server 2012 or higher**
 * OS - **Windows 8 or higher**
 * **IIS** should be installed.
 ---
